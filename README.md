@@ -23,7 +23,7 @@ Este es un sencillo juego de minitenis desarrollado en Java. El objetivo del jue
 
 1. **Clona el repositorio**:
     ```sh
-    git clone https://github.com/tu-usuario/juego-minitenis.git
+    git clone [https://github.com/tu-usuario/juego-minitenis.git](https://github.com/Jgmdevelopers/minitenis.git)
     ```
 
 2. **Navega al directorio del proyecto**:
