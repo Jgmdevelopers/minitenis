@@ -117,3 +117,5 @@ public class Game extends JFrame {
         }
     }
 }
+##Contribuciones
+- **¡Las contribuciones son bienvenidas! Si tienes alguna mejora o corrección, no dudes en hacer un fork del proyecto y enviar un pull request.
