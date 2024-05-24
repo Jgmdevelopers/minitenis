@@ -4,7 +4,7 @@
 
 Este es un sencillo juego de minitenis desarrollado en Java. El objetivo del juego es golpear la pelota con la raqueta para que no toque el suelo. El juego cuenta con controles para mover la raqueta, una pelota que se mueve por la pantalla, y un contador de puntuación. La dificultad del juego aumenta a medida que la pelota va rebotando.
 
-![Captura de pantalla del juego](images/minitenis.png)
+![Captura de pantalla del juego](src/main/java/ar/com/jgmdevelopers/minitenis1/image/minitenis.png)
 
 ## Características
 
